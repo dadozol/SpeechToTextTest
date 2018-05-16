@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechToTextTest</string>
+    <string name="textview_hint">Start your speech to text by pressing the button below.</string>
+</resources>
